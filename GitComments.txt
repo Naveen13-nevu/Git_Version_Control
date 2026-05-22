@@ -1,2 +1,4 @@
 1. "clone the Git hub repo " : git clone url.
-2. 
+2. "add the new files into git " : git add .
+3. "commit new file into git " : git commit -m "message"
+
